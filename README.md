@@ -11,5 +11,5 @@
 - Focused on creating secure, scalable blockchain solutions
 - bulding lana-bank / galoy!
 
-- FhyKZWPWdBbwhzHvmaBZYbNEuYN9BMNngi9hgc4kpump
+  
 
