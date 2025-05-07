@@ -74,10 +74,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderszone899&theme=dark" alt="coderszone899" /></p>
 
-## 🔗 Connect With Me
-- [LinkedIn](#)
-- [Twitter](#)
-- [Portfolio](#)
+## 🔗 Connect With Us
+- [Twitter](#https://x.com/LanaBank_Solana)
 
 ---
 
