@@ -9,5 +9,5 @@
 - Building bridges between Web2 and Web3 technologies
 - Currently expanding my skills in **Python, React.js, and Solidity**
 - Focused on creating secure, scalable blockchain solutions
-- bulding lana-bank/ galoy!
+- bulding lana-bank / galoy!
 
