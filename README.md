@@ -12,5 +12,5 @@
 - bulding lana-bank / galoy!
 
 FhyKZWPWdBbwhzHvmaBZYbNEuYN9BMNngi9hgc4kpump
-  
+  yes its real. coming later tonight! 
 
