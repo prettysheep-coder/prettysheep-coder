@@ -10,5 +10,6 @@
 - Currently expanding my skills in **Python, React.js, and Solidity**
 - Focused on creating secure, scalable blockchain solutions
 - bulding lana-bank / galoy!
+- Lana: EPW5YKBY4csXKRpko3S5QnAuBNYM1vkUBEF2XYf3pump
 
 
